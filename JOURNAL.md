@@ -35,3 +35,33 @@ Both of us worked 4.5 hours
 
   
 
+## 11/3/2025 - Finished Wheels, Designed Bottom Plate, Adjusted Upright  
+
+I spent today largely finishing the drive system of the robot, with some of my efforts directed towards adjusting the Uprights to fit the Dartbox Pro Motors. 
+
+Chassis (Material - ?):
+- Adjusted Connecting Parts to add space for forks
+
+Uprights (UHMW) 
+- Adjusted Part Lighten to have space for motor to fit through
+- Added 8-32 clearance holes on the bottom for eventual use in mounting the bottom plate with a nut
+- Defined UMHW as material for its favorable properties over other plastics
+
+Wheels (TPU + Casted Rubber)
+- Defined using casting rubber for wheel grip (I own some)
+- Modeled belt and pulley GT2-3M connection and defined it in assembly 
+- Using Pololu Wheel Hub Mount for rear drive and a needle bearing for front wheels
+
+
+Progress for Today: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--2839af3ab8490c81a799e775e714fc3daad3f533/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2MywicHVyIjoiYmxvYl9pZCJ9fQ==--3ad16b0679c8ae83df0916af4d110ed69dd5c476/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d8bbd2a16de9eae2f2aa067b56bbc0f4c98a9f0/image.png)
+
+
+
+
+  
+
