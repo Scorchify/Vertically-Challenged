@@ -90,3 +90,15 @@ CAD Progress:
 
   
 
+## 11/5/2025 - Wedge   
+
+Designed Wedge and prepared DXF.
+Will order this from Send Cut Send 
+Started work on top plate as well. 
+
+Planning to reinforce the wedge mounting wise and mount the top plate.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--01c8d7efba6b9b7affbb0994645be7942d8dc107/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--4c5f143110950dbf115eb2b626a77872a70e7e68/image.png)
+
+  
+
