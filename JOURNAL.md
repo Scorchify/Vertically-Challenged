@@ -141,3 +141,27 @@ Spreadsheets + Calculations:
 
   
 
+## 11/8/2025 - Edited Side Chassis, and Designed Weapon Motor Mount  
+
+Notes: Haven't started wheel-guards yet, planning to soon. Discussed options about a custom-PCB as well. 
+Minor Changes
+- Bolt and Insert placement was edited slightly to account for the new part (Weapon Motor Mount)
+
+Major Changes: 
+- Designed a Weapon Motor Mount for the 2836 motor 
+- Researched pulley options to make our 2:1 ratio work
+- Adjusted Uprights to account for Motor Placement
+- Adjusted Side Chassis to bolt onto the connecting part 
+
+Pictures: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--251146713e710a044df89c012af7fdd6ae583bee/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a9a19f554cd97a330e20af019c329afb0f77267/image.png)
+With Upright Removed: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3f27945ffca33880a8e6e8d0fdaec0a483c80063/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ac727181a31ae83b663961e481f5eba876899a8b/image.png)
+
+
+
+
+  
+
