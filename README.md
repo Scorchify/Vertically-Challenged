@@ -10,7 +10,7 @@ Calctastrophe is our 3lb double vertical spinner built for NHRL and other combat
 
 ## 🛠 Design Approach
 
-This is our first build in the beetleweight class after spending time designing and building with fairyweight robots. A major focus for this robot was designing something we could realistically manufacture within the capabilities of the machines used in our school’s Computer Integrated Manufacturing class. With the exception of the AR500 weapon and 5052 aluminum wedge , all of the major components were designed to be made using the tools we have access to, including the waterjet, CNC mill, and 3D printers. 
+This is our first build in the beetleweight class after spending time designing and building with fairyweight robots. A major focus for this robot was designing something we could realistically manufacture within the capabilities of the machines used in our school’s Computer Integrated Manufacturing class. With the exception of the AR500 weapon, 5052 aluminum wedge, and carbon fiber parts all of the major components were designed to be made using the tools we have access to, including the waterjet, CNC mill, and 3D printers. 
 
 
 ## Materials
@@ -22,7 +22,8 @@ We tried to balance competitive performance, durability, and cost while staying 
 - **5052 Aluminum** – Wedge  
 - **CF Nylon** – Frame and other complex 3D printed parts  
 - **TPU** – Wheel guards and wheel hubs for impact absorption  
-- **UHMW** – Uprights (CNC) 
+- **UHMW** – Uprights (CNC)
+- **Carbon Fiber** - Top and Bottom Plates 
 
 This combination let us experiment with more ambitious designs while gaining experience working with diverse machines and materials. We also aimed to use materials that we already had including the Just 'Cuz Robotics WEKA v2 ESC, Dartbox Pro, All-in-One PDB and Flysky FS-i6 +FS-ia6. 
 
